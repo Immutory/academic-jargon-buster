@@ -12,7 +12,7 @@ interactive menu CLI (Claude-CLI style) on top of all three.
     python3 academic_tools.py detect ...        # straight to AI Detector
 
 Jargon Buster: find known jargon in plain text and explain each term
-in plain language, with provenance. 72 terms, fields from physics to
+in plain language, with provenance. 77 terms, fields from physics to
 usability to software engineering, plus Indonesian aliases.
 
     python3 academic_tools.py jargon demos/jargon-buster/test_paper.txt
@@ -118,7 +118,7 @@ from urllib.parse import parse_qs, quote, urlsplit
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-__version__ = "1.27.6"
+__version__ = "1.27.7"
 JARGON_VERSION = "1.0.9"
 CITATION_VERSION = "1.5.8"
 PROMPTS_VERSION = "1.1.0"
