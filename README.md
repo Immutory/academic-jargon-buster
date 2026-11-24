@@ -29,7 +29,7 @@ Out: Penelitian ini mengukur suhu ruangan. Penelitian ini menganalisis
 ## Quick start
 
 ```bash
-git clone https://github.com/achmdfzn/academic-jargon-buster.git
+git clone https://github.com/Immutory/academic-jargon-buster.git
 cd academic-jargon-buster
 python3 academic_tools.py                 # interactive menu
 python3 academic_tools.py serve           # web UI at http://127.0.0.1:8000/

@@ -2,7 +2,7 @@
 
 Owner: Mamang, Divisi 3 Produk/Pengembangan (Kantor IT).
 Notifier: Nona, Divisi 5 Notifikasi/Pengingat.
-Repo: https://github.com/achmdfzn/academic-jargon-buster
+Repo: https://github.com/Immutory/academic-jargon-buster
 
 ## Cadence
 
