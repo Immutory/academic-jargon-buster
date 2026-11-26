@@ -118,7 +118,7 @@ from urllib.parse import parse_qs, quote, urlsplit
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-__version__ = "1.27.7"
+__version__ = "1.27.8"
 JARGON_VERSION = "1.0.9"
 CITATION_VERSION = "1.5.8"
 PROMPTS_VERSION = "1.1.0"

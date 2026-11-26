@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.27.8 — 2026-11-26
+
+- Docs: the GitHub username change achmdfzn → Immutory (repo moved to github.com/Immutory) is now reflected in the README clone URL and in `docs/update-schedule.md` (commit e9448ba, 2026-11-24, pushed today — it had sat unpushed). The version bump keeps the README, the banner, and the `--version` example in sync with `__version__`. No dictionary, code, or CLI change; full suite 890/890.
+
 ## 1.27.7 — 2026-11-19
 
 - Daily-update drift fix: the module docstring still said the jargon dictionary has "72 terms" — it has had 77 since v1.27.3 (73 → 77 with the irregular English plurals/adjectives). The docstring now says 77, matching the README and the actual `len(DICTIONARY)`. No dictionary, code, or CLI change; full suite 890/890.
